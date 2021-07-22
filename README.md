@@ -7,4 +7,4 @@ Subsequently, one of CQAC employees inspects the premises and provide installati
 After installing the air conditioning units by their employees, CQAC conducts an inspection visit, settles the issues if any and collects the remaining cost of the installation.  
 Whenever CQAC receives a repair request from their customers, the details that are related to the problem are obtained and a possible date for a repair visit is informed to them.  After the completion of the repair work by their employees, an invoice is issued to the customer.  
 
-For more information please find the file <(Document) upload database design and development> in thes same folder.
+For more information please find the file <(Document) upload database design and development.docx> in thes same folder.
